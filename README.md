@@ -1,6 +1,6 @@
 # Refine
 
-A project design and productivity tool for students and professionals.
+A project design and productivity tool for Flex Friday
 
 ## Accessing the App
 
@@ -20,6 +20,8 @@ Making a project on Refine from start to finish is simple.
    - If the task is not completed to the satisfaction of the supervisors, the collaborators will be notified and the task will be marked as incomplete.
 7. Once all tasks are completed, the project will be marked as complete.
 
+
+my dad's input: (principal at Deering HS i think)
 grading rubrics
 can adults and students both assign deadlines
 peer feedback
